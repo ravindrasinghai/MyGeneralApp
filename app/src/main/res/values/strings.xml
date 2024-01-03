@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyGeneral</string>
+    <string name="welcome_string_text">Welcome to the MyGeneral App</string>
+    <string name="signin_email_buttin_title">Sigin</string>
+    <string name="create_new_account_buttin_title">Create new account</string>
+    <!-- Strings related to login -->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
