@@ -7,10 +7,28 @@
     <string name="title_activity_login">LoginActivity</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in">Sign in</string>
     <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_forgot_password"><a href='https://www.google.com'>Forgot password ?</a></string>
     <string name="welcome">"Welcome !"</string>
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="signout_failed">"Signout failed"</string>
+    <string name="user_not_found">"User not found"</string>
+    <string name="auth_fetch_failed">"Authentication fetch failed"</string>
+    <!-- Strings related to confirm sign up -->
+    <string name="title_activity_confirmsignup">ConfirmSignUpActivity</string>
+    <string name="prompt_confirmcode">123456</string>
+    <string name="action_signup_code">Enter code to signup</string>
+    <string name="user_is_not_confirmed">"User is not confirmed"</string>
+    <string name="code_mismatch_error">"Confirmation code entered is not correct."</string>
+    <string name="key_pref">"key_pref"</string>
+    <!-- Strings related to confirm sign up -->
+    <string name="menu_profile">"Profile"</string>
+    <string name="menu_settings">"Settings"</string>
+    <string name="menu_signout">"Signout"</string>
+    <string name="menu_share">"Share app"</string>
+    <string name="menu_contactus">"Contact us"</string>
 </resources>

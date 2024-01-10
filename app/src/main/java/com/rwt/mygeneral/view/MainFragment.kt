@@ -50,8 +50,8 @@ class MainFragment: Fragment() {
 
     // Setup the button in our fragment to call getUpdatedText method in viewModel
     private fun setupClickListeners() {
-        binding.fragmentSignInButton.setOnClickListener { viewModel.getUpdatedText() }
-        binding.fragmentCreateAccountButton.setOnClickListener { viewModel.getUpdatedText() }
+        //binding.fragmentSignInButton.setOnClickListener { viewModel.getUpdatedText() }
+        //binding.fragmentCreateAccountButton.setOnClickListener { viewModel.getUpdatedText() }
     }
 
     // Observer is waiting for viewModel to update our UI

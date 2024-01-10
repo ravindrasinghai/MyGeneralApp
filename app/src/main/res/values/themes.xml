@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.MyGeneral" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="MyGeneralAppTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@color/light_indian_red</item>
+        <item name="colorPrimaryVariant">@color/light_indian_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+    <style name="MyGeneral" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="dark_red">#8B0000</color>
+    <color name="red">#FF0000</color>
+    <color name="peru">#CD853F</color>
+    <color name="indian_red">#CD5C5C</color>
+    <color name="light_indian_red">#f55151</color>
+    <color name="superlight_indian_red">#f0bbbb</color>
+    <color name="medium_violet_red">#C71585</color>
+    <color name="dark_goldenrod">#B8860B</color>
+    <color name="dark_magenta">#8B008B</color>
+    <color name="maroon">#800000</color>
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="dark_cyan">#008B8B</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>

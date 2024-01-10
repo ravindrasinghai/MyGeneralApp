@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_two"
+        android:title="@string/menu_profile" />
+    <item android:id="@+id/menu_settings"
+        android:icon="@drawable/ic_two"
+        android:title="@string/menu_settings" />
+    <item android:id="@+id/menu_share"
+        android:icon="@drawable/ic_two"
+        android:title="@string/menu_share" />
+    <item android:id="@+id/menu_contactus"
+        android:icon="@drawable/ic_two"
+        android:title="@string/menu_contactus" />
+    <item android:id="@+id/menu_signout"
+        android:icon="@drawable/ic_two"
+        android:title="@string/menu_signout" />
+</menu>
